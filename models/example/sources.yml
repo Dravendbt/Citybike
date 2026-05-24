@@ -5,5 +5,5 @@ sources:
     tables:
       - name: citybike_trips
         description: "Trips taken for the month"
-      - name: weather strutured
+      - name: weather_structured
         description: "Weather during trips"
