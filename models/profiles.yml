@@ -1,0 +1,12 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: CMVGRNF-ZNA84829
+      user: ADEBNEY
+      role: ADEBNEYDEMOROLE
+      database: ADEBNEYDEMODB
+      warehouse: Transforming
+      schema: DBT_ADEBNEY
+      threads: 4
