@@ -39,7 +39,3 @@ models:
   my_new_project:
     staging:
       +materialized: view
-    marts:
-      +materialized: table
-    sources:
-      +materialized: view
