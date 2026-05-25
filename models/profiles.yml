@@ -8,5 +8,5 @@ default:
       role: ADEBNEYDEMOROLE
       database: ADEBNEYDEMODB
       warehouse: Transforming
-      schema: DBT_ADEBNEY
+      schema: DBT_CITIBIKE
       threads: 4
