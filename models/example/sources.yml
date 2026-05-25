@@ -3,7 +3,7 @@ sources:
     database: ADEBNEYDEMODB
     schema: raw_cb
     tables:
-      - name: citybike_trips
+      - name: citibike_trips
         description: "Trips taken for the month"
       - name: weather_structured
         description: "Weather during trips"
