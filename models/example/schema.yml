@@ -2,7 +2,7 @@
 version: 2
 
 models:
-    - name: citybike_trips
+    - name: citibike_trips
       description: "City Bike "
 
     - name: weather_structured
